@@ -1,0 +1,39 @@
+2017-07-18 11:49:13,996 - BrowserEngine - INFO - You had select Chrome browser.
+2017-07-18 11:49:13,996 - BrowserEngine - INFO - The test server url is: http://bmtest.ematong.com
+2017-07-18 11:49:16,151 - BrowserEngine - INFO - Starting Chrome browser.
+2017-07-18 11:49:17,243 - BrowserEngine - INFO - Open url: http://bmtest.ematong.com
+2017-07-18 11:49:18,651 - BrowserEngine - INFO - Maximize the current window.
+2017-07-18 11:49:18,651 - BrowserEngine - INFO - Set implicitly wait 10 seconds.
+2017-07-18 11:49:18,698 - BasePage - INFO - Had find the element '  ' successful by id via value: user2 
+2017-07-18 11:49:18,778 - BasePage - INFO - Had type ' htest ' in inputBox
+2017-07-18 11:49:18,813 - BasePage - INFO - Had find the element '  ' successful by id via value: password2 
+2017-07-18 11:49:18,898 - BasePage - INFO - Had type ' 123456 ' in inputBox
+2017-07-18 11:49:18,936 - BasePage - INFO - Had find the element '  ' successful by id via value: submit2 
+2017-07-18 11:49:18,993 - BasePage - INFO - The element  was clicked.
+2017-07-18 11:49:21,039 - BasePage - INFO - Had find the element '  ' successful by xpath via value: /html/body/div/div[3]/div[1]/div[1]/div/div[2]/div[3]/a 
+2017-07-18 11:49:22,908 - BasePage - INFO - The element  was clicked.
+2017-07-18 11:49:25,279 - BasePage - INFO - The element ' 优惠套餐 ' was clicked.
+2017-07-18 11:49:26,334 - BasePage - INFO - Had find the element '  ' successful by id via value: title 
+2017-07-18 11:49:26,450 - BasePage - INFO - Had type ' python自建套餐活动001 ' in inputBox
+2017-07-18 11:49:27,513 - BasePage - INFO - Had find the element '  ' successful by id via value: startValidTime 
+2017-07-18 11:49:27,641 - BasePage - INFO - Had type ' 2017-08-12 01:23:45 ' in inputBox
+2017-07-18 11:49:27,680 - BasePage - INFO - Had find the element '  ' successful by id via value: endValidTime 
+2017-07-18 11:49:27,790 - BasePage - INFO - Had type ' 2018-12-30 23:59:59 ' in inputBox
+2017-07-18 11:49:27,826 - BasePage - INFO - Had find the element '  ' successful by xpath via value: //*[@id='command']/div[4]/div[2]/table/tbody/tr[1]/td/div/span[2]/input 
+2017-07-18 11:49:27,878 - BasePage - INFO - The element  was clicked.
+2017-07-18 11:49:27,914 - BasePage - INFO - Had find the element '  ' successful by xpath via value: //*[@id='command']/div[4]/div[2]/table/tbody/tr[1]/td/ul[2]/li[1]/input[1] 
+2017-07-18 11:49:27,979 - BasePage - INFO - Had type ' 1 ' in inputBox
+2017-07-18 11:49:28,016 - BasePage - INFO - Had find the element '  ' successful by xpath via value: //*[@id='command']/div[4]/div[2]/table/tbody/tr[1]/td/ul[2]/li[1]/input[2] 
+2017-07-18 11:49:28,075 - BasePage - INFO - Had type ' 50 ' in inputBox
+2017-07-18 11:49:28,109 - BasePage - INFO - Had find the element '  ' successful by xpath via value: //*[@id='command']/div[4]/div[2]/table/tbody/tr[1]/td/ul[2]/li[1]/a 
+2017-07-18 11:49:28,154 - BasePage - INFO - The element  was clicked.
+2017-07-18 11:49:30,211 - BasePage - INFO - Had find the element '  ' successful by xpath via value: //*[@id='command']/div[4]/div[2]/table/tbody/tr[1]/td/ul[2]/li[2]/a 
+2017-07-18 11:49:30,255 - BasePage - INFO - The element  was clicked.
+2017-07-18 11:49:32,309 - BasePage - INFO - Had find the element '  ' successful by xpath via value: //*[@id='command']/div[4]/div[2]/table/tbody/tr[2]/td/span[2]/input 
+2017-07-18 11:49:32,351 - BasePage - INFO - The element  was clicked.
+2017-07-18 11:49:32,385 - BasePage - INFO - Had find the element '  ' successful by xpath via value: //*[@id='command']/div[4]/div[2]/table/tbody/tr[4]/td/span[2]/input 
+2017-07-18 11:49:32,430 - BasePage - INFO - The element  was clicked.
+2017-07-18 11:49:34,482 - BasePage - INFO - Had find the element ' 添加主商品 ' successful by xpath via value: //*[@id='addMainGoodsTr']/td/a 
+2017-07-18 11:49:34,657 - BasePage - INFO - The element  was clicked.
+2017-07-18 11:49:35,720 - BasePage - INFO - Had find the element ' 实体商品 ' successful by xpath via value: //*[@id='type']/option[2] 
+2017-07-18 11:49:35,750 - BasePage - INFO - The element  was clicked.

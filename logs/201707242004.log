@@ -1,0 +1,37 @@
+2017-07-24 20:04:23,365 - BrowserEngine - INFO - You had select Chrome browser.
+2017-07-24 20:04:23,365 - BrowserEngine - INFO - The test server url is: http://bmtest.ematong.com
+2017-07-24 20:04:25,483 - BrowserEngine - INFO - Starting Chrome browser.
+2017-07-24 20:04:27,049 - BrowserEngine - INFO - Open url: http://bmtest.ematong.com
+2017-07-24 20:04:28,216 - BrowserEngine - INFO - Maximize the current window.
+2017-07-24 20:04:28,217 - BrowserEngine - INFO - Set implicitly wait 10 seconds.
+2017-07-24 20:04:28,255 - BasePage - INFO - Had find the element '  ' successful by id via value: user2 
+2017-07-24 20:04:28,332 - BasePage - INFO - Had type ' htest ' in inputBox
+2017-07-24 20:04:28,368 - BasePage - INFO - Had find the element '  ' successful by id via value: password2 
+2017-07-24 20:04:28,453 - BasePage - INFO - Had type ' 123456 ' in inputBox
+2017-07-24 20:04:28,490 - BasePage - INFO - Had find the element '  ' successful by id via value: yzm2 
+2017-07-24 20:04:28,589 - BasePage - INFO - Had type ' HY7102$ ' in inputBox
+2017-07-24 20:04:28,638 - BasePage - INFO - Had find the element '  ' successful by id via value: submit2 
+2017-07-24 20:04:28,694 - BasePage - INFO - The element  was clicked.
+2017-07-24 20:04:30,733 - BasePage - INFO - Had find the element '  ' successful by xpath via value: /html/body/div/div[3]/div[1]/div[1]/div/div[2]/div[3]/a 
+2017-07-24 20:04:33,019 - BasePage - INFO - The element  was clicked.
+2017-07-24 20:04:35,519 - BasePage - INFO - The element ' 页面管理 ' was clicked.
+2017-07-24 20:04:37,121 - BasePage - INFO - The element ' 列表展示 ' was clicked.
+2017-07-24 20:04:37,836 - BasePage - INFO - The element ' 加载页 ' was clicked.
+2017-07-24 20:04:38,220 - BasePage - INFO - The element ' 商品详情页 ' was clicked.
+2017-07-24 20:04:38,674 - BasePage - INFO - The element ' 自定义页面 ' was clicked.
+2017-07-24 20:04:39,128 - BasePage - INFO - The element ' 主页 ' was clicked.
+2017-07-24 20:04:52,826 - BasePage - INFO - The element ' 加载页 ' was clicked.
+2017-07-24 20:04:52,869 - BasePage - INFO - Had find the element '  ' successful by xpath via value: //*[@id='tloadForm']/div[4]/div/div[2]/table/tbody/tr[1]/td[2]/label[2]/input 
+2017-07-24 20:04:52,940 - BasePage - INFO - The element  was clicked.
+2017-07-24 20:04:52,987 - BasePage - INFO - Had find the element '  ' successful by xpath via value: //*[@id='tloadForm']/div[4]/div/div[2]/table/tbody/tr[1]/td[2]/label[1]/input 
+2017-07-24 20:04:53,049 - BasePage - INFO - The element  was clicked.
+2017-07-24 20:04:53,089 - BasePage - INFO - Had find the element ' 开启 ' successful by id via value: openAndColesBtn 
+2017-07-24 20:04:53,144 - BasePage - INFO - The element  was clicked.
+2017-07-24 20:04:53,183 - BasePage - INFO - Had find the element ' 保存 ' successful by xpath via value: //*[@id='tloadForm']/div[4]/div/div[2]/p/button 
+2017-07-24 20:04:53,229 - BasePage - INFO - The element  was clicked.
+2017-07-24 20:04:53,328 - BasePage - INFO - The element ' 商品详情页 ' was clicked.
+2017-07-24 20:05:04,381 - BasePage - ERROR - NoSuchElementException: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id='goodDetailFrom']/table/tbody/tr/td[2]/div/p/label/input"}
+  (Session info: chrome=59.0.3071.115)
+  (Driver info: chromedriver=2.28.455520 (cc17746adff54984afff480136733114c6b3704b),platform=Windows NT 6.1.7601 SP1 x86_64)
+
+2017-07-24 20:05:04,706 - BasePage - INFO - Had take screenshot and save to folder : /screenshots

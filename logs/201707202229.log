@@ -1,0 +1,38 @@
+2017-07-20 22:29:20,970 - BrowserEngine - INFO - You had select Chrome browser.
+2017-07-20 22:29:20,970 - BrowserEngine - INFO - The test server url is: http://bmtest.ematong.com
+2017-07-20 22:29:23,788 - BrowserEngine - INFO - Starting Chrome browser.
+2017-07-20 22:29:25,427 - BrowserEngine - INFO - Open url: http://bmtest.ematong.com
+2017-07-20 22:29:26,579 - BrowserEngine - INFO - Maximize the current window.
+2017-07-20 22:29:26,581 - BrowserEngine - INFO - Set implicitly wait 10 seconds.
+2017-07-20 22:29:26,627 - BasePage - INFO - Had find the element '  ' successful by id via value: user2 
+2017-07-20 22:29:26,709 - BasePage - INFO - Had type ' htest ' in inputBox
+2017-07-20 22:29:26,744 - BasePage - INFO - Had find the element '  ' successful by id via value: password2 
+2017-07-20 22:29:26,835 - BasePage - INFO - Had type ' 123456 ' in inputBox
+2017-07-20 22:29:26,871 - BasePage - INFO - Had find the element '  ' successful by id via value: yzm2 
+2017-07-20 22:29:26,966 - BasePage - INFO - Had type ' HY7102$ ' in inputBox
+2017-07-20 22:29:27,000 - BasePage - INFO - Had find the element '  ' successful by id via value: submit2 
+2017-07-20 22:29:27,058 - BasePage - INFO - The element  was clicked.
+2017-07-20 22:29:29,049 - BasePage - INFO - Had take screenshot and save to folder : /screenshots
+2017-07-20 22:29:30,098 - BasePage - INFO - Had find the element '  ' successful by xpath via value: /html/body/div/div[3]/div[1]/div[1]/div/div[2]/div[3]/a 
+2017-07-20 22:29:35,362 - BasePage - INFO - The element  was clicked.
+2017-07-20 22:29:37,726 - BasePage - INFO - The element  was clicked.
+2017-07-20 22:29:39,601 - BasePage - INFO - The element ' 商品管理 ' was clicked.
+2017-07-20 22:29:41,282 - BasePage - INFO - The element ' 分类管理 ' was clicked.
+2017-07-20 22:29:43,434 - BasePage - INFO - The element ' 页面管理 ' was clicked.
+2017-07-20 22:29:44,776 - BasePage - INFO - The element ' 订单管理 ' was clicked.
+2017-07-20 22:29:46,232 - BasePage - INFO - The element ' 商品促销 ' was clicked.
+2017-07-20 22:29:48,463 - BasePage - INFO - The element ' 优惠套餐 ' was clicked.
+2017-07-20 22:29:50,710 - BasePage - INFO - The element ' 满立减 ' was clicked.
+2017-07-20 22:29:52,920 - BasePage - INFO - The element ' 预售 ' was clicked.
+2017-07-20 22:29:55,404 - BasePage - INFO - The element ' 限时特价 ' was clicked.
+2017-07-20 22:29:57,799 - BasePage - INFO - The element ' 抱团购 ' was clicked.
+2017-07-20 22:30:00,000 - BasePage - INFO - The element ' 代金券 ' was clicked.
+2017-07-20 22:30:02,464 - BasePage - INFO - The element ' 秒杀 ' was clicked.
+2017-07-20 22:30:05,572 - BasePage - INFO - The element ' 许愿 ' was clicked.
+2017-07-20 22:30:08,766 - BasePage - INFO - The element ' 送礼 ' was clicked.
+2017-07-20 22:30:10,132 - BasePage - INFO - The element ' 客户管理 ' was clicked.
+2017-07-20 22:30:11,493 - BasePage - INFO - The element ' 运费模板 ' was clicked.
+2017-07-20 22:30:12,937 - BasePage - INFO - The element ' 配送模板 ' was clicked.
+2017-07-20 22:30:14,677 - BasePage - INFO - The element ' 属性模板 ' was clicked.
+2017-07-20 22:30:16,421 - BasePage - INFO - The element ' 时间模板 ' was clicked.
+2017-07-20 22:30:17,849 - BasePage - INFO - The element ' 基础设置 ' was clicked.

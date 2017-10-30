@@ -1,0 +1,19 @@
+2017-07-18 10:27:18,055 - BrowserEngine - INFO - You had select Chrome browser.
+2017-07-18 10:27:18,055 - BrowserEngine - INFO - The test server url is: http://bmtest.ematong.com
+2017-07-18 10:27:20,440 - BrowserEngine - INFO - Starting Chrome browser.
+2017-07-18 10:27:22,457 - BrowserEngine - INFO - Open url: http://bmtest.ematong.com
+2017-07-18 10:27:23,878 - BrowserEngine - INFO - Maximize the current window.
+2017-07-18 10:27:23,901 - BrowserEngine - INFO - Set implicitly wait 10 seconds.
+2017-07-18 10:27:23,947 - BasePage - INFO - Had find the element '  ' successful by id via value: user2 
+2017-07-18 10:27:24,026 - BasePage - INFO - Had type ' htest ' in inputBox
+2017-07-18 10:27:24,063 - BasePage - INFO - Had find the element '  ' successful by id via value: password2 
+2017-07-18 10:27:24,140 - BasePage - INFO - Had type ' 123456 ' in inputBox
+2017-07-18 10:27:24,178 - BasePage - INFO - Had find the element '  ' successful by id via value: submit2 
+2017-07-18 10:27:24,233 - BasePage - INFO - The element  was clicked.
+2017-07-18 10:27:26,289 - BasePage - INFO - Had find the element '  ' successful by xpath via value: /html/body/div/div[3]/div[1]/div[1]/div/div[2]/div[3]/a 
+2017-07-18 10:27:28,285 - BasePage - INFO - The element  was clicked.
+2017-07-18 10:27:30,601 - BasePage - INFO - The element ' 优惠套餐 ' was clicked.
+2017-07-18 10:27:31,655 - BasePage - INFO - Had find the element '  ' successful by id via value: title 
+2017-07-18 10:27:31,775 - BasePage - INFO - Had type ' python自建套餐活动001 ' in inputBox
+2017-07-18 10:27:32,838 - BasePage - INFO - Had find the element '  ' successful by id via value: description 
+2017-07-18 10:27:32,924 - BasePage - INFO - Had type ' 这里是备注 ' in inputBox

@@ -1,0 +1,28 @@
+2017-07-24 17:48:04,826 - BrowserEngine - INFO - You had select Chrome browser.
+2017-07-24 17:48:04,826 - BrowserEngine - INFO - The test server url is: http://bmtest.ematong.com
+2017-07-24 17:48:06,903 - BrowserEngine - INFO - Starting Chrome browser.
+2017-07-24 17:48:07,994 - BrowserEngine - INFO - Open url: http://bmtest.ematong.com
+2017-07-24 17:48:09,421 - BrowserEngine - INFO - Maximize the current window.
+2017-07-24 17:48:09,424 - BrowserEngine - INFO - Set implicitly wait 10 seconds.
+2017-07-24 17:48:09,476 - BasePage - INFO - Had find the element '  ' successful by id via value: user2 
+2017-07-24 17:48:09,556 - BasePage - INFO - Had type ' htest ' in inputBox
+2017-07-24 17:48:09,595 - BasePage - INFO - Had find the element '  ' successful by id via value: password2 
+2017-07-24 17:48:09,674 - BasePage - INFO - Had type ' 123456 ' in inputBox
+2017-07-24 17:48:09,711 - BasePage - INFO - Had find the element '  ' successful by id via value: yzm2 
+2017-07-24 17:48:09,798 - BasePage - INFO - Had type ' HY7102$ ' in inputBox
+2017-07-24 17:48:09,838 - BasePage - INFO - Had find the element '  ' successful by id via value: submit2 
+2017-07-24 17:48:09,892 - BasePage - INFO - The element  was clicked.
+2017-07-24 17:48:11,944 - BasePage - INFO - Had find the element '  ' successful by xpath via value: /html/body/div/div[3]/div[1]/div[1]/div/div[2]/div[3]/a 
+2017-07-24 17:48:14,115 - BasePage - INFO - The element  was clicked.
+2017-07-24 17:48:16,015 - BasePage - INFO - The element ' 页面管理 ' was clicked.
+2017-07-24 17:48:17,588 - BasePage - INFO - The element ' 列表展示 ' was clicked.
+2017-07-24 17:48:18,285 - BasePage - INFO - The element ' 加载页 ' was clicked.
+2017-07-24 17:48:40,519 - BasePage - INFO - The element ' 加载页 ' was clicked.
+2017-07-24 17:48:40,553 - BasePage - INFO - Had find the element '  ' successful by xpath via value: //*[@id='tloadForm']/div[4]/div/div[2]/table/tbody/tr[1]/td[2]/label[2]/input 
+2017-07-24 17:48:40,604 - BasePage - INFO - The element  was clicked.
+2017-07-24 17:48:40,647 - BasePage - INFO - Had find the element '  ' successful by xpath via value: //*[@id='tloadForm']/div[4]/div/div[2]/table/tbody/tr[1]/td[2]/label[1]/input 
+2017-07-24 17:48:40,694 - BasePage - INFO - The element  was clicked.
+2017-07-24 17:48:40,730 - BasePage - INFO - Had find the element ' 开启 ' successful by id via value: openAndColesBtn 
+2017-07-24 17:48:40,773 - BasePage - INFO - The element  was clicked.
+2017-07-24 17:48:40,808 - BasePage - INFO - Had find the element ' 保存 ' successful by xpath via value: //*[@id='tloadForm']/div[4]/div/div[2]/p/button 
+2017-07-24 17:48:40,852 - BasePage - INFO - The element  was clicked.

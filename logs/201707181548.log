@@ -1,0 +1,51 @@
+2017-07-18 15:48:59,880 - BrowserEngine - INFO - You had select Chrome browser.
+2017-07-18 15:48:59,880 - BrowserEngine - INFO - The test server url is: http://bmtest.ematong.com
+2017-07-18 15:49:02,023 - BrowserEngine - INFO - Starting Chrome browser.
+2017-07-18 15:49:04,730 - BrowserEngine - INFO - Open url: http://bmtest.ematong.com
+2017-07-18 15:49:06,154 - BrowserEngine - INFO - Maximize the current window.
+2017-07-18 15:49:06,157 - BrowserEngine - INFO - Set implicitly wait 10 seconds.
+2017-07-18 15:49:06,217 - BasePage - INFO - Had find the element '  ' successful by id via value: user2 
+2017-07-18 15:49:06,296 - BasePage - INFO - Had type ' htest ' in inputBox
+2017-07-18 15:49:06,335 - BasePage - INFO - Had find the element '  ' successful by id via value: password2 
+2017-07-18 15:49:06,407 - BasePage - INFO - Had type ' 123456 ' in inputBox
+2017-07-18 15:49:06,447 - BasePage - INFO - Had find the element '  ' successful by id via value: submit2 
+2017-07-18 15:49:06,506 - BasePage - INFO - The element  was clicked.
+2017-07-18 15:49:08,726 - BasePage - INFO - Had find the element '  ' successful by xpath via value: /html/body/div/div[3]/div[1]/div[1]/div/div[2]/div[3]/a 
+2017-07-18 15:49:10,793 - BasePage - INFO - The element  was clicked.
+2017-07-18 15:49:20,135 - BasePage - INFO - The element ' 优惠套餐 ' was clicked.
+2017-07-18 15:49:21,197 - BasePage - INFO - Had find the element '  ' successful by id via value: title 
+2017-07-18 15:49:21,318 - BasePage - INFO - Had type ' python自建套餐活动001 ' in inputBox
+2017-07-18 15:49:22,378 - BasePage - INFO - Had find the element '  ' successful by id via value: startValidTime 
+2017-07-18 15:49:22,526 - BasePage - INFO - Had type ' 2017-08-12 01:23:45 ' in inputBox
+2017-07-18 15:49:22,568 - BasePage - INFO - Had find the element '  ' successful by id via value: endValidTime 
+2017-07-18 15:49:22,678 - BasePage - INFO - Had type ' 2018-12-30 23:59:59 ' in inputBox
+2017-07-18 15:49:22,717 - BasePage - INFO - Had find the element '  ' successful by xpath via value: //*[@id='command']/div[4]/div[2]/table/tbody/tr[1]/td/div/span[2]/input 
+2017-07-18 15:49:22,772 - BasePage - INFO - The element  was clicked.
+2017-07-18 15:49:22,811 - BasePage - INFO - Had find the element '  ' successful by xpath via value: //*[@id='command']/div[4]/div[2]/table/tbody/tr[1]/td/ul[2]/li[1]/input[1] 
+2017-07-18 15:49:22,882 - BasePage - INFO - Had type ' 1 ' in inputBox
+2017-07-18 15:49:22,920 - BasePage - INFO - Had find the element '  ' successful by xpath via value: //*[@id='command']/div[4]/div[2]/table/tbody/tr[1]/td/ul[2]/li[1]/input[2] 
+2017-07-18 15:49:22,980 - BasePage - INFO - Had type ' 50 ' in inputBox
+2017-07-18 15:49:23,016 - BasePage - INFO - Had find the element '  ' successful by xpath via value: //*[@id='command']/div[4]/div[2]/table/tbody/tr[1]/td/ul[2]/li[1]/a 
+2017-07-18 15:49:23,065 - BasePage - INFO - The element  was clicked.
+2017-07-18 15:49:24,117 - BasePage - INFO - Had find the element '  ' successful by xpath via value: //*[@id='command']/div[4]/div[2]/table/tbody/tr[1]/td/ul[2]/li[2]/a 
+2017-07-18 15:49:24,161 - BasePage - INFO - The element  was clicked.
+2017-07-18 15:49:25,220 - BasePage - INFO - Had find the element '  ' successful by xpath via value: //*[@id='command']/div[4]/div[2]/table/tbody/tr[2]/td/span[2]/input 
+2017-07-18 15:49:25,263 - BasePage - INFO - The element  was clicked.
+2017-07-18 15:49:25,299 - BasePage - INFO - Had find the element '  ' successful by xpath via value: //*[@id='command']/div[4]/div[2]/table/tbody/tr[4]/td/span[2]/input 
+2017-07-18 15:49:25,344 - BasePage - INFO - The element  was clicked.
+2017-07-18 15:49:26,403 - BasePage - INFO - Had find the element ' 添加主商品 ' successful by xpath via value: //*[@id='addMainGoodsTr']/td/a 
+2017-07-18 15:49:26,622 - BasePage - INFO - The element  was clicked.
+2017-07-18 15:49:27,688 - BasePage - INFO - Had find the element ' 实体商品 ' successful by xpath via value: //*[@id='type']/option[2] 
+2017-07-18 15:49:27,720 - BasePage - INFO - The element  was clicked.
+2017-07-18 15:49:27,815 - BasePage - INFO - Had type ' 现代风格 ' in inputBox
+2017-07-18 15:49:27,851 - BasePage - INFO - Had find the element ' 已上架 ' successful by xpath via value: //*[@id='status']/option[3] 
+2017-07-18 15:49:27,878 - BasePage - INFO - The element  was clicked.
+2017-07-18 15:49:27,914 - BasePage - INFO - Had find the element '  ' successful by xpath via value: //*[@id='queryGoodsForm1']/div/div/label[5]/input 
+2017-07-18 15:49:28,002 - BasePage - INFO - The element  was clicked.
+2017-07-18 15:49:28,038 - BasePage - INFO - Had find the element ' 搜索 ' successful by xpath via value: //*[@id='queryGoodsForm1']/div/div/a 
+2017-07-18 15:49:28,109 - BasePage - INFO - The element  was clicked.
+2017-07-18 15:49:39,230 - BasePage - ERROR - NoSuchElementException: Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div[2]/div[2]/a"}
+  (Session info: chrome=59.0.3071.115)
+  (Driver info: chromedriver=2.28.455520 (cc17746adff54984afff480136733114c6b3704b),platform=Windows NT 6.1.7601 SP1 x86_64)
+
+2017-07-18 15:49:39,573 - BasePage - INFO - Had take screenshot and save to folder : /screenshots
